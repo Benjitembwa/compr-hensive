@@ -1,0 +1,367 @@
+[
+  {
+    "lesson": 1,
+    "printedPage": 1,
+    "phonetics": "Premières initiales b/p/m/f/d/t/n/l et finales a/o/e/i/u/ü ; quatre tons, ton neutre et tracé des accents du pinyin.",
+    "grammar": [
+      "Le pronom de politesse 您",
+      "Les tons et la syllabe",
+      "Les salutations usuelles"
+    ],
+    "writing": "Traits horizontaux et verticaux ; ordre du haut vers le bas"
+  },
+  {
+    "lesson": 2,
+    "printedPage": 9,
+    "phonetics": "Initiales zh/ch/sh/r, z/c/s ; contraste rétroflexe et non rétroflexe ; finale neutre et lecture du 3e ton.",
+    "grammar": [
+      "La particule de reprise 呢",
+      "Le ton neutre",
+      "La question d'identité avec 是"
+    ],
+    "writing": "Traits obliques ; écrire de gauche à droite"
+  },
+  {
+    "lesson": 3,
+    "printedPage": 18,
+    "phonetics": "Initiales j/q/x ; finales ia, ie, iao, iou, ian, in, iang, ing, iong ; bouche et aspiration.",
+    "grammar": [
+      "Demander le nom avec 叫什么",
+      "Le nom de famille et 贵姓",
+      "Les pronoms et 也"
+    ],
+    "writing": "Encadrement : tracer l’extérieur avant l’intérieur"
+  },
+  {
+    "lesson": 4,
+    "printedPage": 27,
+    "phonetics": "Règles orthographiques y/w du pinyin ; sandhi du troisième ton et de 不 devant le quatrième ton.",
+    "grammar": [
+      "La phrase verbale SVO",
+      "Questions oui/non avec 吗",
+      "La négation 不",
+      "Le sandhi de 不"
+    ],
+    "writing": "Radicaux des langues et des personnes (讠, 亻)"
+  },
+  {
+    "lesson": 5,
+    "printedPage": 39,
+    "phonetics": "Écriture de ya/ye/yao/you, wa/wo/wai/wei, yu/yue/yuan/yun ; nombres et enchaînements.",
+    "grammar": [
+      "Le classificateur familial 口",
+      "几 ou 多少 pour les quantités",
+      "Le classificateur 个",
+      "Les nombres 1 à 100",
+      "二 et 两"
+    ],
+    "writing": "La structure gauche-droite et les caractères de la famille"
+  },
+  {
+    "lesson": 6,
+    "printedPage": 50,
+    "phonetics": "Variation du ton de 一 et lecture de mesures et montants. Opposition consonnes aspirées/non aspirées.",
+    "grammar": [
+      "Le verbe modal 想",
+      "Les nombres supérieurs à 100",
+      "Exprimer les montants en yuans",
+      "Demander un prix",
+      "Le changement de ton de 一"
+    ],
+    "writing": "Composants des nombres, de l’argent et des mesures"
+  },
+  {
+    "lesson": 7,
+    "printedPage": 62,
+    "phonetics": "Erhua (儿化) dans 哪儿 et 这儿 ; distinguer lieux et directions ; place des accents.",
+    "grammar": [
+      "L'existence avec 在",
+      "Les expressions de direction",
+      "L'adverbe 还",
+      "Où : 哪儿 et 在什么地方",
+      "La particule finale 吧"
+    ],
+    "writing": "Radicaux de lieux, de transport et de déplacement"
+  },
+  {
+    "lesson": 8,
+    "printedPage": 75,
+    "phonetics": "Prononciation des jours, mois et nombres ; ton de 不 et mélodie des questions.",
+    "grammar": [
+      "Les phrases à prédicat nominal",
+      "Exprimer la date",
+      "Demander confirmation : 对吗",
+      "Demander une appréciation : 怎么样",
+      "Le prédicat à adjectif"
+    ],
+    "writing": "Structures des caractères de calendrier et de temps"
+  },
+  {
+    "lesson": 9,
+    "printedPage": 88,
+    "phonetics": "Prononciation naturelle des heures, groupes de temps et transitions 先 / 然后.",
+    "grammar": [
+      "La succession 先…然后…",
+      "Venir ou aller faire quelque chose",
+      "Les compléments de temps",
+      "Lire les heures"
+    ],
+    "writing": "Composants des verbes d’action et de l’heure"
+  },
+  {
+    "lesson": 10,
+    "printedPage": 101,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Le prédicat adjectival",
+      "La question affirmative-négative",
+      "Le redoublement bref 一下",
+      "Une petite quantité 一点儿"
+    ],
+    "writing": "Traits et composition dans les adjectifs descriptifs"
+  },
+  {
+    "lesson": 11,
+    "printedPage": 113,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Le lieu de l'action 在 + lieu",
+      "Un déplacement 从…到…",
+      "L'ordre temps et lieu",
+      "Lire un numéro de chambre",
+      "Répondre à un remerciement"
+    ],
+    "writing": "Radicaux et mots composés liés à la vie scolaire"
+  },
+  {
+    "lesson": 12,
+    "printedPage": 124,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "La préposition 对",
+      "La particule 呢 pour la situation en cours",
+      "Le choix A 还是 B"
+    ],
+    "writing": "Caractères des boissons, des commandes et des alternatives"
+  },
+  {
+    "lesson": 13,
+    "printedPage": 135,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "L'adverbe 又",
+      "La particule 了 : changement accompli",
+      "Interroger le résultat avec 怎么样",
+      "La manière 怎么"
+    ],
+    "writing": "La particule 了 et les composants de l’action accomplie"
+  },
+  {
+    "lesson": 14,
+    "printedPage": 146,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "La particule finale 了 : nouvel état",
+      "À peine… que : 一…就…",
+      "L'adverbe 就",
+      "L'intensité 这么",
+      "Encore / de plus avec 还"
+    ],
+    "writing": "Radicaux des vêtements, des achats et des nombres"
+  },
+  {
+    "lesson": 15,
+    "printedPage": 158,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Le modal 要 : vouloir",
+      "Le modal 可以 : permission",
+      "Le modal 能 : capacité et circonstances",
+      "Le modal 会 : compétence apprise ou prévision"
+    ],
+    "writing": "Caractères et composants des capacités et obligations"
+  },
+  {
+    "lesson": 16,
+    "printedPage": 172,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Les verbes à double complément",
+      "Le modal 要 : obligation / intention",
+      "还是 dans une suggestion",
+      "可以 pour une proposition réalisable"
+    ],
+    "writing": "Traits des verbes d’envoi et des noms d’objets"
+  },
+  {
+    "lesson": 17,
+    "printedPage": 183,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "L'adverbe 才 : tardif ou limité",
+      "Le prédicat sujet-prédicat",
+      "Le complément d'état avec adjectif",
+      "Comment : 怎么",
+      "Le résultat 好"
+    ],
+    "writing": "Observer 口, 语, 听 ; structure gauche-droite"
+  },
+  {
+    "lesson": 18,
+    "printedPage": 194,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Les périodes de temps",
+      "Le complément de durée",
+      "Le redoublement verbal",
+      "La question 是不是",
+      "Redoublement des adjectifs"
+    ],
+    "writing": "Différencier les caractères de temps et de durée"
+  },
+  {
+    "lesson": 19,
+    "printedPage": 206,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "L'adverbe 只好",
+      "La préposition 给 + personne",
+      "Compléments de résultat : 好、上、见、开、完、给",
+      "Le verbe 过 : passer / traverser"
+    ],
+    "writing": "Radicaux d’actions et de réparation, composants de résultat"
+  },
+  {
+    "lesson": 20,
+    "printedPage": 219,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Résultats 到、在、走、满",
+      "La coordination 又…又…",
+      "L'approximation numérique",
+      "L'interjection 对了",
+      "La particule 吧 dans la suggestion"
+    ],
+    "writing": "Écriture de 送, 到, 家 et des caractères de lieu"
+  },
+  {
+    "lesson": 21,
+    "printedPage": 232,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Comparer avec 一样 / 不一样",
+      "Le conseil avec 好吗",
+      "La construction 把 (introduction)"
+    ],
+    "writing": "Écrire 把, 放 et les composants des objets"
+  },
+  {
+    "lesson": 22,
+    "printedPage": 242,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Les groupes nominaux avec 的",
+      "Une impression légèrement négative 有点儿",
+      "Le degré « un peu plus » 一点儿",
+      "才 : seulement à ce moment",
+      "L'expression 算了"
+    ],
+    "writing": "Couleurs, 的 et écriture des caractères composés"
+  },
+  {
+    "lesson": 23,
+    "printedPage": 252,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Nombres approximatifs (suite)",
+      "才 : « pas avant »",
+      "La quantité approximative 差不多",
+      "了 : changement d'état comparatif",
+      "L'évaluation 还可以"
+    ],
+    "writing": "Radicaux météorologiques et noms des saisons"
+  },
+  {
+    "lesson": 24,
+    "printedPage": 262,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Exprimer un but avec 为了",
+      "La condition avec 如果",
+      "L'existence avec 有",
+      "Les compléments directionnels simples",
+      "La construction 把 avec direction"
+    ],
+    "writing": "Caractères de correspondance et mouvements 来 / 去"
+  },
+  {
+    "lesson": 25,
+    "printedPage": 273,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "La relative avant le nom",
+      "Les compléments potentiels",
+      "Bien que… mais… 虽然…但是…",
+      "L'adverbe 好好儿"
+    ],
+    "writing": "Les caractères de compréhension 听, 懂 et de concession"
+  },
+  {
+    "lesson": 26,
+    "printedPage": 285,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Exprimer un futur proche",
+      "Mettre en relief : 特别是",
+      "Les verbes séparables",
+      "La condition familière 要是"
+    ],
+    "writing": "Radicaux liés aux fêtes et expressions du futur proche"
+  },
+  {
+    "lesson": 27,
+    "printedPage": 295,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Faire deux choses en même temps 一边…一边…",
+      "L'action en cours 正在…呢",
+      "Les variantes 在…呢 et 正…呢",
+      "Le lieu chez quelqu'un : 那儿 / 这儿"
+    ],
+    "writing": "Écriture de 正, 在, 看 et des actions en cours"
+  },
+  {
+    "lesson": 28,
+    "printedPage": 305,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Les nombres approximatifs (troisième série)",
+      "La préposition 通过",
+      "L'adverbe 多 pour l'intensité",
+      "L'adverbe 原来"
+    ],
+    "writing": "Observer le radical du mouvement dans 过 et la composition de 长城"
+  },
+  {
+    "lesson": 29,
+    "printedPage": 315,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Le complément d'état 得",
+      "Le verbe 爱",
+      "L'adverbe 可能"
+    ],
+    "writing": "Écriture des compléments d’état et du vocabulaire des fêtes"
+  },
+  {
+    "lesson": 30,
+    "printedPage": 326,
+    "phonetics": "Lecture de phrases complètes, accentuation des mots clés, tons dans le contexte et écoute contrastive des structures de cette leçon.",
+    "grammar": [
+      "Le degré extrême 极了",
+      "L'expérience passée avec 过",
+      "Les subordonnées en 当…的时候"
+    ],
+    "writing": "Radicaux d’expérience et de profession ; révision générale"
+  }
+]

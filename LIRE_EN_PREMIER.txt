@@ -1,0 +1,6 @@
+MANDARIN INTEGRAL : 30 LEÇONS
+
+1. Ouvre ce dossier dans VS Code.
+2. Terminal : python -m http.server 8000
+3. Navigateur : http://localhost:8000
+4. Consulter README.md pour les détails et la publication GitHub Pages.
